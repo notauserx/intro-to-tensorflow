@@ -6,6 +6,11 @@ This repository contains code samples for  ["Introduction to TensorFlow for Arti
 ## Setup
 
 Open a command prompt on the project directory 
+create a vitual environment
+
+```
+python3 -m venv venv
+```
 
 activate the virtual environment
 
